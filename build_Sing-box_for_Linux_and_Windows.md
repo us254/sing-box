@@ -1,4 +1,4 @@
-Certainly! Here's how you can use the `make` command to build Sing-box for Linux and Windows using the specified build tags and the `dev-next` branch:
+ Here's how you can use the `make` command to build Sing-box for Linux and Windows using the specified build tags and the `dev-next` branch:
 
 Preparing the environment:
 ```
