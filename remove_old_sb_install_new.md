@@ -13,7 +13,7 @@ To stop, remove the current sing-box binary, and install the version you built f
 
 3. Remove the current sing-box executable:
    ```
-   sudo rm /path/to/sing-box
+   sudo rm /usr/bin/sing-box
    ```
    Replace `/path/to/sing-box` with the actual path of the sing-box executable found in step 2.
 
