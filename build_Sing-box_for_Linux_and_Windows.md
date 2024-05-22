@@ -1,4 +1,8 @@
  Here's how you can use the `make` command to build Sing-box for Linux and Windows using the specified build tags and the `dev-next` branch:
+```
+sudo apt update
+sudo apt install git make
+```
 
 Preparing the environment:
 ```
